@@ -1,6 +1,8 @@
 # readme-template
 Copy and paste template for a repository's ReadMe
 
+Enter 'repository' into the **Find** menu, and enter the new repository's name into **Replace All**. After which the links should work.
+
 ```markdown
 # ReadMe Template
 
