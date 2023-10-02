@@ -24,22 +24,22 @@ Enter 'repository' into the **Find** menu, and enter the new repository's name i
 [![Stargazers repo roster for @cschorn01/repository](https://reporoster.com/stars/cschorn01/repository)](https://github.com/cschorn01/repository/stargazers)
 
 
-## Description
+## ![Description](https://img.shields.io/badge/Description-FFFFFF?style=for-the-badge)
 
 
-## Functionality
+## ![Functionality](https://img.shields.io/badge/Functionality-FFFFFF?style=for-the-badge)
 
 
-## File Structure
+## ![File Structure](https://img.shields.io/badge/file_structure-FFFFFF?style=for-the-badge)
 <!-- Emoji Cheat Sheet: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
 - :file_folder: 
 - :page_facing_up: 
 
-## How To Use
+## ![How to Use](https://img.shields.io/badge/how_to_use-FFFFFF?style=for-the-badge)
 
 
-## Issues
+## ![Issues](https://img.shields.io/badge/issues-FFFFFF?style=for-the-badge)
 
 - ![Error](https://img.shields.io/badge/Error-A31B34?style=for-the-badge) 
   - ![Solution](https://img.shields.io/badge/Solution-5CBA5B?style=for-the-badge) 
@@ -70,22 +70,22 @@ Enter 'repository' into the **Find** menu, and enter the new repository's name i
 [![Stargazers repo roster for @cschorn01/repository](https://reporoster.com/stars/cschorn01/readme-template)](https://github.com/cschorn01/repository/stargazers)
 
 
-## Description
+## ![Description](https://img.shields.io/badge/Description-FFFFFF?style=for-the-badge)
 
 
-## Functionality
+## ![Functionality](https://img.shields.io/badge/Functionality-FFFFFF?style=for-the-badge)
 
 
-## File Structure
+## ![File Structure](https://img.shields.io/badge/file_structure-FFFFFF?style=for-the-badge)
 <!-- Emoji Cheat Sheet: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
 - :file_folder: 
 - :page_facing_up: 
 
-## How To Use
+## ![How to Use](https://img.shields.io/badge/how_to_use-FFFFFF?style=for-the-badge)
 
 
-## Issues
+## ![Issues](https://img.shields.io/badge/issues-FFFFFF?style=for-the-badge)
 
 - ![Error](https://img.shields.io/badge/Error-A31B34?style=for-the-badge) 
   - ![Solution](https://img.shields.io/badge/Solution-5CBA5B?style=for-the-badge) 
