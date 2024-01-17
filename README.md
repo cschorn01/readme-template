@@ -66,8 +66,6 @@ Enter 'repository' into the **Find** menu, and enter the repository's name into 
 [![How to Use](https://img.shields.io/badge/how_to_use-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/repository/tree/main#-3)
 [![Issues](https://img.shields.io/badge/issues-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/repository/tree/main#-4)
 
-[![Stargazers repo roster for @cschorn01/repository](https://reporoster.com/stars/cschorn01/repository)](https://github.com/cschorn01/repository/stargazers)
-
 
 ## ![Description](https://img.shields.io/badge/Description-FFFFFF?style=for-the-badge)
 
