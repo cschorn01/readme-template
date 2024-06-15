@@ -3,6 +3,8 @@ Copy and paste template for a repository's ReadMe
 
 Enter 'repository' into the **Find** menu, and enter the repository's name into **Replace All**. After which the links should work.
 
+<!-- ![Alt](https://repobeats.axiom.co/api/embed/a92f097d9197ae853e780ec53d7d126e545629ab.svg "Repobeats analytics image") -->
+
 ## How It Looks
 
 [![By Chris Schorn](https://img.shields.io/badge/Author-Chris_Schorn-FFFFFF?style=for-the-badge)](https://github.com/cschorn01)
